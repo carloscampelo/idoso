@@ -2,11 +2,11 @@
 
 O site idoso.com é destinado a inclusão de pessoas da terceira idade no mundo da Tecnologia da Informação, disponibilizando vídeos aulas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cursos na área de rede socias, nevagação na internet e informática.
 
-### Markdown
+### APRESENTAÇÃO
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TEXTO
 
 ```markdown
 Syntax highlighted code block
